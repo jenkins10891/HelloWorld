@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AE8A-84DC
+
+ Directory of C:\Users\LuckyAgarwal\Desktop\java project1
+
+12-09-2018  12:14    <DIR>          .
+12-09-2018  12:14    <DIR>          ..
+12-09-2018  11:30               472 Hello.class
+11-09-2018  18:22               175 Hello.java
+12-09-2018  12:14                 0 read.txt
+12-09-2018  12:02               454 readme.txt
+               4 File(s)          1,101 bytes
+               2 Dir(s)  394,632,097,792 bytes free
